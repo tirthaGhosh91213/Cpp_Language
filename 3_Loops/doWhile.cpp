@@ -3,7 +3,7 @@
 int main(){
  int i=2;
  do{
-  cout<<"Hey Tirtha "<<i<<endl;
+  cout<<"Hey Tirtha how are you"<<i<<endl;
   i++;
  }while(i<=1);
  cout<<i<<endl;
