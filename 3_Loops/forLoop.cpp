@@ -7,7 +7,7 @@ int main(){
  }*/
 
 for(i=10;i>=1;i--){
-  cout<<"Hey Tirtha  "<<i<<endl;
+  cout<<"Hey Tirtha hoow are you "<<i<<endl;
 }
   
   return 0;
